@@ -38,9 +38,39 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=danayankalam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  </div>
 
 ###
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danayankalam&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center" >
+
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=danayankalam&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=danayankalam&show_icons=true" >
+</picture>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
 
  
